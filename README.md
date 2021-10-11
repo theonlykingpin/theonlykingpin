@@ -9,4 +9,4 @@ Experience of building restful services and interacting with third party APIs.
 
 Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, HTML5, CSS3, JAVASCRIPT, JQUERY, Bootstrap, Postman, DjangoCelery, RabbitMQ, Testing, TDD, Bash, DjangoChannels, GraphQL. Websocket, Async,
 
-Website: https://rezarohaniresume.herokuapp.com/
+Website: https://rezarohani.herokuapp.com/
