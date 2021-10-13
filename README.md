@@ -15,13 +15,6 @@ Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, HTML5, CSS3, JAV
 
 ---
 
-### Find me on:
-<a href="https://t.me/TheOnlyKIngpin"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:8px"></a>
-<a href="https://www.instagram.com/__rezarohani__/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:8px"></a>
-<a href="https://twitter.com/RezaRoh59001712"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-34-83443.png" alt="twitter" height="35" style="margin:8px"></a>
-
----
-
 ### My status in Github:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&theme=default&show_icons=true) 
@@ -38,3 +31,10 @@ Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, HTML5, CSS3, JAV
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
   and so on...
 </p>
+
+---
+
+### Find me on:
+<a href="https://t.me/TheOnlyKIngpin"><img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="35" style="margin:8px"></a>
+<a href="https://www.instagram.com/__rezarohani__/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png" alt="instagram" height="35" style="margin:8px"></a>
+<a href="https://twitter.com/RezaRoh59001712"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-34-83443.png" alt="twitter" height="35" style="margin:8px"></a>
