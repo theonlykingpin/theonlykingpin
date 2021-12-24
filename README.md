@@ -8,7 +8,7 @@ Solid Python knowledge, with accent on code quality, easy maintenance and user e
 Experience of building restful services and interacting with third party APIs.
 Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, HTML5, CSS3, JAVASCRIPT, JQUERY, Bootstrap, Postman, DjangoCelery, RabbitMQ, Testing, TDD, Bash, DjangoChannels, GraphQL. Websocket, Async,
 
-- Website: https://rezarohani.herokuapp.com/
+- Website: https://rezarh.xyz/
 - :boy: I learn anything to make myself better.
 - ⚡ Fun fact: I can stay at home and code all day long...
 
