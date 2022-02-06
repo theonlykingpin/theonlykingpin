@@ -23,8 +23,8 @@ Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, Postman, DjangoC
 ### Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" alt="Python" height="50" width="50" style="vertical-align:top">
-<img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/5edfb8bf-3da1-455e-98db-91a7b0a955b1.svg" alt="flask" height="50" width="50" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" alt="django" height="50" width="50" style="vertical-align:top">
+<img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/5edfb8bf-3da1-455e-98db-91a7b0a955b1.svg" alt="flask" height="50" width="50" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="git" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/docker-13-1175230.png" alt="docker" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
