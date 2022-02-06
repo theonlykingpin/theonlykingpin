@@ -2,8 +2,8 @@
 
 
 ### About me:
-I am a Python and Django and Django Rest Framework developer.
-I am continually learning and developing my skills and I can learn a new skill very quickly.
+I am a Python and Backend developer.
+I am continually learning and developing my skills and I can learn a new skill very fast.
 Solid Python knowledge, with accent on code quality, easy maintenance and user experience. Good knowledge and experience of development patterns and best practices.
 Experience of building restful services and interacting with third party APIs.
 Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, Postman, DjangoCelery, RabbitMQ, Testing, Bash ...
