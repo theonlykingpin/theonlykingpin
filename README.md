@@ -28,5 +28,5 @@ Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, Postman, DjangoC
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="git" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/docker-13-1175230.png" alt="docker" height="60" width="60" style="vertical-align:top">
 <img src="https://cdn.iconscout.com/icon/free/png-256/ubuntu-16-1175076.png" alt="ubuntu" height="50" width="50" style="vertical-align:top">
-  and so on...
+  and...
 </p>
