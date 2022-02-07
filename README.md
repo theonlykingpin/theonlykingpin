@@ -4,11 +4,13 @@
 ### About me:
 I am a Python and Backend developer.
 I am continually learning and developing my skills and I can learn a new skill very fast.
-Solid Python knowledge, with accent on code quality, easy maintenance and user experience. Good knowledge of development patterns and best practices.
+Solid Python knowledge, with accent on code quality, easy maintenance and user experience.
+Good knowledge of development patterns and best practices.
 Experience of building restful services and interacting with third party APIs.
-Specialties: Python, Django, DRF, Postgresql, Git, Docker, SQL, Postman, DjangoCelery, RabbitMQ, Testing, Bash ...
+Specialties: Python, Django, DjangoRestFramework, Git, Docker, Database ...
 
 - Website: https://rezarh.ir/
+
 - :boy: I learn anything FAST to make myself better.
 - ⚡ Fun fact: I can stay at home and code all day long...
 
