@@ -10,9 +10,9 @@ Experience of building restful services and interacting with third party APIs.
 Specialties: Python, Django, DjangoRestFramework, Git, Docker, Database ...
 
 - Website: https://rezarh.ir/
-
+-
 - :boy: I learn anything FAST to make myself better.
-- ⚡ Fun fact: I can stay at home and code all day long...
+- ⚡ Fun fact: I can stay at home and code all day long.
 
 ---
 
