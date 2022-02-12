@@ -2,7 +2,7 @@
 
 
 ### About me:
-I am a Python and Backend developer.
+I am a Python and Backend developer with django and django-rest-framework with more than 2 years of experience.
 I am continually learning and developing my skills and I can learn a new skill very fast.
 Solid Python knowledge, with accent on code quality, easy maintenance and user experience.
 Good knowledge of development patterns and best practices.
