@@ -1,5 +1,5 @@
 
-## Hey Folks, I'm Reza 👋
+## Hello Folks, I'm Reza 👋
 
 
 I am a python and backend developer with django and django-rest-framework and ...\
@@ -13,3 +13,5 @@ You can find me in:
 
 - Website: https://rezarh.ir/
 
+
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true&theme=tokyonight)
