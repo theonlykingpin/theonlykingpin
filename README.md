@@ -1,4 +1,5 @@
-## Hey, I'm Reza 👋
+
+## Hey Folks, I'm Reza 👋
 
 
 I am a python and backend developer with django and django-rest-framework and ...\
@@ -11,3 +12,6 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 You can find me in:
 
 - Website: https://rezarh.ir/
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
