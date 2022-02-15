@@ -12,7 +12,7 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 You can find me in:
 
 - Website: https://rezarh.ir/
-- Github: https://github.com/theonlykingpin (you are here)
+- Github: https://github.com/theonlykingpin (you are already here)
 
 \
 \
