@@ -12,9 +12,10 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 You can find me in:
 
 - Website: https://rezarh.ir/
+- Github: https://github.com/theonlykingpin (you are here)
 
-
+\
+\
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlykingpin&layout=compact)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlykingpin)]
