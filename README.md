@@ -13,6 +13,7 @@ You can find me in:
 
 - Website: https://rezarh.ir/
 - Github: https://github.com/theonlykingpin (you are already here)
+- LinkedIn: https://www.linkedin.com/in/reza-rohani-47853b212/
 
 \
 \
