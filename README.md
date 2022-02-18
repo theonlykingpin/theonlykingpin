@@ -1,8 +1,6 @@
 
 <h2 align="center">
 Hello there 👋🏻, It's Reza
-  
-![](https://komarev.com/ghpvc/?username=theonlykingpin&color=green)
 </h2>
 
 I am a python and backend developer with django and django-rest-framework and ...\
