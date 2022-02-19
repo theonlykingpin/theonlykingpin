@@ -3,26 +3,28 @@
 Hello there 👋🏻, It's Reza
 </h2>
 
-I am a python and backend developer with django and django-rest-framework and ...\
+I'm a software developer from Iran. 🇮🇷
 
-I have more than 2 years of experience in backend development.\
+I am a python and backend developer with django and django-rest-framework and etc. 🚀
 
-I am continually learning and developing my skills, and I can learn a new skill very fast.\
+I have more than 2 years of experience in backend development. 👀
 
-I have good python knowledge, with accent on code quality, easy maintenance and user experience.\
+I am continually learning and developing my skills, and I can learn a new skill very fast. ⚡
 
-I also have good knowledge of development patterns and best practices.\
+I have good python knowledge, with accent on code quality, easy maintenance and user experience. 🖥️
 
-I like to build things with SQL and NoSQL databases, Python, modern backend frameworks.
+I also have good knowledge of development patterns and best practices. :octocat:
 
-You can find me in:
+I like to build things with SQL and NoSQL databases, Python, modern backend frameworks. ❇️
 
-- Website: https://rezarh.ir/
+🔵 You can find me in:
 
-- Github: https://github.com/theonlykingpin (you are already here)
+🟡 Website: https://rezarh.ir/
 
-- LinkedIn: https://www.linkedin.com/in/reza-rohani-47853b212/
+🟢 Github: https://github.com/theonlykingpin (you are already here)
 
-\
-\
+🔴 LinkedIn: https://www.linkedin.com/in/reza-rohani-47853b212/
+
+
+
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)
