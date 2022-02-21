@@ -1,7 +1,5 @@
 
-<h2>
-Hello there 👋🏻, It's Reza
-</h2>
+<h3>Hello there 👋🏻, It's Reza</h3>
 
 I'm a software developer from Iran. 🇮🇷
 
