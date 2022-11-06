@@ -1,7 +1,7 @@
 
 <h3>Hello there 👋🏻, It's Reza</h3>
 
-I'm a software developer from Iran. 🇮🇷
+I'm a programmer - developer from Iran. 🇮🇷
 
 I am a python and backend developer with django and django-rest-framework and etc. 🚀
 
