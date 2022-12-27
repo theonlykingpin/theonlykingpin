@@ -23,6 +23,7 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 
 🔴 LinkedIn: https://www.linkedin.com/in/reza-rohani-47853b212/
 
+🔴 LeetCode: https://leetcode.com/theonlykingpin/
 
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)
