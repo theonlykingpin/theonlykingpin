@@ -25,6 +25,4 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 
 🔴 LeetCode: https://leetcode.com/theonlykingpin/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlykingpin)](https://github.com/anuraghazra/github-readme-stats)
-
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlykingpin)](https://github.com/anuraghazra/github-readme-stats) ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)
