@@ -9,7 +9,7 @@ I have more than 3 years of experience in backend development. 👀
 
 I am continually learning and developing my skills, and I can learn a new skill very fast. ⚡
 
-I have good python knowledge, with accent on code quality, easy maintenance and user experience. 🖥️
+I have good python knowledge, with accent on code quality, easy maintenance and speed improvments and user experience. 🖥️
 
 I also have good knowledge of development patterns and best practices. :octocat:
 
