@@ -15,7 +15,7 @@ I also have good knowledge of development patterns and best practices. :octocat:
 
 I like to build things with SQL and NoSQL databases, Python, modern backend frameworks. ❇️
 
-🔵 You can find me in:
+🔵 You can find me in
 
 🟡 Website: https://rezarh.ir/
 
