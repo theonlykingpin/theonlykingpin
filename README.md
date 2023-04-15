@@ -26,3 +26,5 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 🔴 LeetCode: https://leetcode.com/theonlykingpin/
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlykingpin&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlykingpin&layout=compact)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theonlykingpin&theme=dark&hide_border=false"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=theonlykingpin&theme=radical&no-frame=false&no-bg=true&margin-w=4"/></p>
