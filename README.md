@@ -5,6 +5,8 @@ I'm from Iran. 🇮🇷
 
 I am a python and backend developer with django and django-rest-framework and etc. 🚀
 
+I am also Rust and Go fan :))
+
 I have more than 3 years of experience in backend development. 👀
 
 I am continually learning and developing my skills, and I can learn a new skill very fast. ⚡
