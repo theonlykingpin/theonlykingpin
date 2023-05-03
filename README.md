@@ -1,5 +1,5 @@
 
-<h3>Hello there 👋🏻, It's Reza</h3>
+<h3>Hi 👋🏻, I am Reza.</h3>
 
 I'm from Iran. 🇮🇷
 
