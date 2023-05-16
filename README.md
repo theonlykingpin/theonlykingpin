@@ -1,8 +1,6 @@
 
 <h3>Hi 👋🏻, I am Reza.</h3>
 
-I'm from Iran. 🇮🇷
-
 I am a python and backend developer with django and django-rest-framework and etc. 🚀
 
 I am also Rust and Go fan :))
