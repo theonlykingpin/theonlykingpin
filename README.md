@@ -1,9 +1,9 @@
 
 <h3>Hi 👋🏻, I am Reza.</h3>
 
-I am a python and backend developer with django and django-rest-framework and etc, also Golang. 🚀
+I am a python | GoLang and backend developer with django and django-rest-framework and etc. 🚀
 
-I am also Rust. :))
+I am also Rust fan :))
 
 I have more than 3 years of experience in backend development. 👀
 
