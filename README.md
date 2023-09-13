@@ -2,7 +2,7 @@
 
 I am a python | GoLang | backend developer with django, django-rest-framework, FastAPI and etc... 🚀
 
-I am also Rust fan! :))
+I am also RUST and ZIG fan! :)))
 
 I have more than 3 years of experience in backend development. 👀
 
