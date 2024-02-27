@@ -24,4 +24,4 @@ I like to build things with SQL and NoSQL databases, Python, modern backend fram
 
 🔴 LeetCode: https://leetcode.com/theonlykingpin/
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theonlykingpin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/theonlykingpin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
