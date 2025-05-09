@@ -70,13 +70,13 @@ Django Rules: A fork of an awesome Django authorization library, optimized for d
 If you find my projects helpful or enjoy my content, consider supporting me! Your contributions help me keep creating and sharing open-source resources.
 
 
-₿ Bitcoin: 1DPWxKgNja2JN461wk17Aa6NqbavUtZpob
-Ξ Ethereum ERC20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
-Ξ Ethereum ARBITRUM: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
-💵 Tether (USDT):
-TRC-20: TBmV5BCxvKak1hWG1zEykLCa39BzpNdVFH
-ERC-20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
-BSC: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
+₿ Bitcoin: 1DPWxKgNja2JN461wk17Aa6NqbavUtZpob  
+Ξ Ethereum ERC20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256  
+Ξ Ethereum ARBITRUM: 0x316c40535f40267ca52b96e6f3a1496f6b6df256  
+💵 Tether (USDT):  
+TRC-20: TBmV5BCxvKak1hWG1zEykLCa39BzpNdVFH  
+ERC-20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256  
+BSC: 0x316c40535f40267ca52b96e6f3a1496f6b6df256  
 
 
 
