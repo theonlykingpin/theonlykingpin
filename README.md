@@ -1,23 +1,85 @@
 👋 Hi, I'm Reza Rohani (@theonlykingpin)!
+I'm a passionate backend developer with over 3 years of experience crafting robust, scalable, and high-performance applications. My focus lies in leveraging Python, Go, Rust, and Zig to build efficient backend solutions that power seamless user experiences. I thrive on solving complex problems, writing clean code, and exploring cutting-edge technologies.
 
-👨‍💻 Passionate backend developer specializing in **Python** and **Go**, with a strong focus on building robust and scalable applications using frameworks like **Django**, **Django REST Framework**, and **FastAPI**. I have over 3 years of experience crafting efficient backend solutions.
+🚀 What I Do
 
-🦀 Rust and ⚡ Zig enthusiast, always exploring the potential of low-level programming languages.
+🛠️ Build scalable APIs and microservices using Django, Django REST Framework, and FastAPI.
+🗄️ Design and optimize databases with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).
+⚡ Experiment with low-level programming in Rust and Zig for performance-critical systems.
+🧰 Utilize tools like Docker, Kubernetes, and message queues to streamline development and deployment.
+💻 Contribute to open-source projects and share knowledge through my backend roadmap and blog.
 
-💡 I'm committed to writing high-quality, maintainable code with a focus on performance and a positive user experience. I have a strong understanding of development patterns and best practices, and I'm a fast learner, always eager to expand my skillset.
 
-🛠️ My Core Technologies:
+🛠️ My Tech Stack
 
-* **Languages:** Python, Go, Rust, Zig
-* **Frameworks:** Django, Django REST Framework, FastAPI
-* **Databases:** SQL (e.g., PostgreSQL, MySQL), NoSQL (e.g., MongoDB)
-* **Other:** [Consider adding any other key tools or technologies you frequently use, like Docker, Kubernetes, message queues, etc.]
 
-🔗 Connect with me:
 
-* 🌐 **Website:** [https://rezarh.ir/](https://rezarh.ir/)
-* <0xF0><0x9F><0x93><0x84> **GitHub:** [https://github.com/theonlykingpin](https://github.com/theonlykingpin)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/reza-rohani-47853b212/](https://www.linkedin.com/in/reza-rohani-47853b212/)
-* <0xF0><0x9F><0xA7><0xAE> **LeetCode:** [https://leetcode.com/theonlykingpin/](https://leetcode.com/theonlykingpin/)
+Category
+Technologies
 
-📊 My GitHub Stats:
+
+
+Languages
+Python, Go, Rust, Zig
+
+
+Frameworks
+Django, Django REST Framework, FastAPI
+
+
+Databases
+PostgreSQL, MySQL, MongoDB
+
+
+Tools
+Docker, Kubernetes, RabbitMQ, Redis, Git
+
+
+Other
+RESTful APIs, GraphQL, CI/CD, Microservices
+
+
+
+🌟 Featured Projects
+
+Python Backend Roadmap: A comprehensive guide for aspiring backend engineers, forked and enhanced from DjangoEx.
+Cinema: A fully functional Django-based website for cinema ticket sales.
+ProBlog: A professional blog platform built with Python for daily use.
+Django Rules: A fork of an awesome Django authorization library, optimized for database-free workflows.
+
+
+🔗 Connect With Me
+
+🌐 Website: rezarh.ir
+📄 GitHub: github.com/theonlykingpin
+💼 LinkedIn: linkedin.com/in/reza-rohani-47853b212
+🧮 LeetCode: leetcode.com/theonlykingpin
+
+
+📊 GitHub Stats
+
+
+💡 Fun Facts
+
+🦀 I'm a Rustacean at heart, always chasing zero-cost abstractions.
+⚡ I believe Zig is the future of systems programming.
+☕ Fueled by coffee and a passion for clean, maintainable code.
+
+
+🙏 Support My Work
+If you find my projects helpful or enjoy my content, consider supporting me! Your contributions help me keep creating and sharing open-source resources.
+
+
+₿ Bitcoin: 1DPWxKgNja2JN461wk17Aa6NqbavUtZpob
+Ξ Ethereum ERC20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
+Ξ Ethereum ARBITRUM: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
+💵 Tether (USDT):
+TRC-20: TBmV5BCxvKak1hWG1zEykLCa39BzpNdVFH
+ERC-20: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
+BSC: 0x316c40535f40267ca52b96e6f3a1496f6b6df256
+
+
+
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+Thanks for stopping by! Let's build something awesome together! 🚀
