@@ -3,11 +3,11 @@ I'm a passionate backend developer with over 3 years of experience crafting robu
 
 🚀 What I Do
 
-🛠️ Build scalable APIs and microservices using Django, Django REST Framework, and FastAPI.
-🗄️ Design and optimize databases with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).
-⚡ Experiment with low-level programming in Rust and Zig for performance-critical systems.
-🧰 Utilize tools like Docker, Kubernetes, and message queues to streamline development and deployment.
-💻 Contribute to open-source projects and share knowledge through my backend roadmap and blog.
+🛠️ Build scalable APIs and microservices using Django, Django REST Framework, and FastAPI.  
+🗄️ Design and optimize databases with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB).  
+⚡ Experiment with low-level programming in Rust and Zig for performance-critical systems.  
+🧰 Utilize tools like Docker, Kubernetes, and message queues to streamline development and deployment.  
+💻 Contribute to open-source projects and share knowledge through my backend roadmap and blog.  
 
 
 🛠️ My Tech Stack
@@ -42,18 +42,18 @@ RESTful APIs, GraphQL, CI/CD, Microservices
 
 🌟 Featured Projects
 
-Python Backend Roadmap: A comprehensive guide for aspiring backend engineers, forked and enhanced from DjangoEx.
-Cinema: A fully functional Django-based website for cinema ticket sales.
-ProBlog: A professional blog platform built with Python for daily use.
-Django Rules: A fork of an awesome Django authorization library, optimized for database-free workflows.
+Python Backend Roadmap: A comprehensive guide for aspiring backend engineers, forked and enhanced from DjangoEx.  
+Cinema: A fully functional Django-based website for cinema ticket sales.  
+ProBlog: A professional blog platform built with Python for daily use.  
+Django Rules: A fork of an awesome Django authorization library, optimized for database-free workflows.  
 
 
 🔗 Connect With Me
 
-🌐 Website: rezarh.ir
-📄 GitHub: github.com/theonlykingpin
-💼 LinkedIn: linkedin.com/in/reza-rohani-47853b212
-🧮 LeetCode: leetcode.com/theonlykingpin
+🌐 Website: rezarh.ir  
+📄 GitHub: github.com/theonlykingpin  
+💼 LinkedIn: linkedin.com/in/reza-rohani-47853b212  
+🧮 LeetCode: leetcode.com/theonlykingpin  
 
 
 📊 GitHub Stats
@@ -61,9 +61,9 @@ Django Rules: A fork of an awesome Django authorization library, optimized for d
 
 💡 Fun Facts
 
-🦀 I'm a Rustacean at heart, always chasing zero-cost abstractions.
-⚡ I believe Zig is the future of systems programming.
-☕ Fueled by coffee and a passion for clean, maintainable code.
+🦀 I'm a Rustacean at heart, always chasing zero-cost abstractions.  
+⚡ I believe RUST and Zig are the future of systems programming.  
+☕ Fueled by coffee and a passion for clean, maintainable code.  
 
 
 🙏 Support My Work
