@@ -1,27 +1,23 @@
-<h3>Hi 👋🏻, I am Reza.</h3>
+👋 Hi, I'm Reza Rohani (@theonlykingpin)!
 
-I am a python | GoLang | backend developer with django, django-rest-framework, FastAPI and etc... 🚀
+👨‍💻 Passionate backend developer specializing in **Python** and **Go**, with a strong focus on building robust and scalable applications using frameworks like **Django**, **Django REST Framework**, and **FastAPI**. I have over 3 years of experience crafting efficient backend solutions.
 
-I am also RUST and ZIG fan! :)))
+🦀 Rust and ⚡ Zig enthusiast, always exploring the potential of low-level programming languages.
 
-I have more than 3 years of experience in backend development. 👀
+💡 I'm committed to writing high-quality, maintainable code with a focus on performance and a positive user experience. I have a strong understanding of development patterns and best practices, and I'm a fast learner, always eager to expand my skillset.
 
-I am continually learning and developing my skills, and I can learn a new skill very fast. ⚡
+🛠️ My Core Technologies:
 
-I have good python knowledge, with accent on code quality, easy maintenance and speed improvments and user experience. 🖥️
+* **Languages:** Python, Go, Rust, Zig
+* **Frameworks:** Django, Django REST Framework, FastAPI
+* **Databases:** SQL (e.g., PostgreSQL, MySQL), NoSQL (e.g., MongoDB)
+* **Other:** [Consider adding any other key tools or technologies you frequently use, like Docker, Kubernetes, message queues, etc.]
 
-I also have good knowledge of development patterns and best practices. :octocat:
+🔗 Connect with me:
 
-I like to build things with SQL and NoSQL databases, Python, modern backend frameworks. ❇️
+* 🌐 **Website:** [https://rezarh.ir/](https://rezarh.ir/)
+* <0xF0><0x9F><0x93><0x84> **GitHub:** [https://github.com/theonlykingpin](https://github.com/theonlykingpin)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/reza-rohani-47853b212/](https://www.linkedin.com/in/reza-rohani-47853b212/)
+* <0xF0><0x9F><0xA7><0xAE> **LeetCode:** [https://leetcode.com/theonlykingpin/](https://leetcode.com/theonlykingpin/)
 
-🔵 You can find me in: ⬇️
-
-🟡 Website: https://rezarh.ir/
-
-🟢 Github: https://github.com/theonlykingpin (you are already here)
-
-🔴 LinkedIn: https://www.linkedin.com/in/reza-rohani-47853b212/
-
-🔴 LeetCode: https://leetcode.com/theonlykingpin/
-
-<img src="https://myreadme.vercel.app/api/embed/theonlykingpin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+📊 My GitHub Stats:
